@@ -3,7 +3,9 @@
     "lodash": "^4.17.20"
   },
   "dependencies": {
-    "minimist": "1.2.5"
+    "minimist": "1.2.5",
+    "ms": "2.0.0",
+    "snyk": "^1.995.0"
   },
   "overrides": {
     "ms": "2.0.0",
