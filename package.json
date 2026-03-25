@@ -4,7 +4,8 @@
   },
   "dependencies": {
     "minimist": "1.2.5",
-    "ms": "2.0.0"
+    "ms": "2.0.0",
+    "snyk": "^1.995.0"
   },
   "overrides": {
     "ms": "2.0.0",
