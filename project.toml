@@ -1,6 +1,6 @@
 [project]
-name = "run-project"
+name = "setup-project"
 version = "0.1.0"
 
 [project.scripts]
-run = "run:main"
+setup = "setup:main"
